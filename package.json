@@ -1,0 +1,12 @@
+{
+  "name": "sommelierlab-web",
+  "version": "1.0.0",
+  "description": "Página web estática para SommelierLab",
+  "main": "Index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "dependencies": {
+    "serve": "^14.0.1"
+  }
+}
